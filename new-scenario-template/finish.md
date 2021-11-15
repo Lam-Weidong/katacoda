@@ -3,7 +3,7 @@ On the finish page, summarize what was just learned:
 
 - 3-4 bullets
 - of what you just
-- did and learned,ok?
+- did and learned,ok? attemp2.
 
 ## Table of Contents
 
